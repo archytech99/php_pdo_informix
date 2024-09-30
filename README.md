@@ -1,5 +1,4 @@
 # php_pdo_informix
-:point_right: This repository is no longer maintained
 
 Precompiled PHP PECL extension php_pdo_informix for Windows.
 
